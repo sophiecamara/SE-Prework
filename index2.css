@@ -1,0 +1,47 @@
+
+head,h2{
+    text-align: center;
+    justify-content: center;
+    border: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(85, 190, 85, 0.637);
+}
+h2{
+    color:seagreen; font-size: 40px;}
+
+h3{
+    color:seagreen; font-size:20px;
+}
+
+#welcome{
+    text-align: center;
+    justify-content: center;
+}
+
+#Iam { 
+    color: brown;
+    text-align:justify ;
+    margin-left: 8px; }
+#Nevertherless{
+    color: brown;
+    text-align:justify;
+    margin-left:8px;
+}
+.favproject {
+    text-decoration-line: underline; 
+}  
+body{
+    background-color: greenyellow;
+}
+.jump-fun { width: 1400px;height: 600px;
+
+ }
+
+div{position:static;} 
+    .box { height:5em width 5em}
+    box-sizing
+
+    {content-box
+
+     

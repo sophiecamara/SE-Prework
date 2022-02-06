@@ -1,0 +1,42 @@
+head,h2{
+    text-align: center;
+    justify-content: center;
+    border: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color:rgba(85, 190, 85, 0.637);
+    color:seagreen; 
+    font-size: 40px;
+}
+
+#about{
+    color: rgb(6, 65, 10);
+    text-align: center;
+}
+
+#welcome{
+    text-align: center;
+    justify-content: center;
+}
+
+
+body{
+    background-color: greenyellow;
+}
+
+h3{
+    color:seagreen; font-size:20px;
+}
+
+#table{
+    text-align: center;
+    margin: 25px
+}
+
+#sub{
+    color: black;
+    text-align: center;
+}
+#youtube{
+    display: inline;
+}
